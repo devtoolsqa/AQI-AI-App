@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35852653875",
+    "project_id": "aqi-ai-app",
+    "storage_bucket": "aqi-ai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35852653875:android:d8d8a7359547218ee1da46",
+        "android_client_info": {
+          "package_name": "com.example.aqi_ai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86N3Be7WS92O3R_sW6xGHnJPtN7s1bpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
